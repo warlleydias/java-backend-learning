@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.unb.poo.exception.SenhaInvalidaExpection&apos; to &apos;SenhaInvalidaException&apos;&#x0D;&#x0A;- Original project: &apos;meu-primeiro-maven&apos;&#x0D;&#x0A;- Original element: &apos;br.unb.poo.exception.SenhaInvalidaExpection&apos;&#x0D;&#x0A;- Renamed element: &apos;br.unb.poo.exception.SenhaInvalidaException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SenhaInvalidaExpection&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.unb.poo.exception{SenhaInvalidaExpection.java[SenhaInvalidaExpection" matchStrategy="1" name="SenhaInvalidaException" qualified="false" references="true" similarDeclarations="false" stamp="1777400132047" textual="false" version="1.0"/>
+</session>

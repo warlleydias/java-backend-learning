@@ -1,0 +1,5 @@
+package br.unb.poo.mapper;
+
+public interface UsuarioMapper {
+
+}
